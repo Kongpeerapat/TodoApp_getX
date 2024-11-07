@@ -14,7 +14,7 @@ class DoingList extends StatelessWidget {
         ? Column(
             children: [
               Image.asset(
-                "assets/images/task.png",
+                "assets/images/task.jpg",
                 fit: BoxFit.cover,
                 width: 65.0.wp,
               ),
